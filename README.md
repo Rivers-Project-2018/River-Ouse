@@ -1,4 +1,6 @@
 # River-Ouse
+
+## Introduction
 The River Ouse is a river in the north of the UK. It flows 84km in total through the city of York and the
 towns of Selby and Goole before joining the River Trent to form the Humber Estuary on the east coast of
 the UK. The River Aire, Don, Wharfe and Foss are all tributaries which flow into the River Ouse[1].
@@ -15,6 +17,14 @@ and discharge whilst the Viking Recorder, Foss Barrier and Clifton Ings stations
 rating change reports are available for the Viking Recorder and Foss Barrier Stations because hydrologists
 deem the relationship between stage and flow to be too unreliable at these locations.
 
+## Flood Mitigation
+
+In November 2016, the Evironmental Agency Released a 13 page document titled "How we're reducing the risk of flooding in York" in response to the December 2015 floods. Click here to access:https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/568910/EA_York_Flood_Action_Plan__FINAL.pdf 
+
+The document highlighted 10 communities at risk and made suggestions for flood mitigation including building and raising embankments, flood walls, land, creating storage areas and increasing the pump capacity of pump stations.
+
+Updates to progress on flood mitigation can be found here: https://consult.environment-agency.gov.uk/yorkshire/yorkfas/
+
 
 ## Project Progress
 * Report transferred into LaTex (see PDF). Started doing equations/tables yet have not input my graphs.
@@ -24,18 +34,21 @@ deem the relationship between stage and flow to be too unreliable at these locat
 
 
 ## References
+
 [1] Yorkshire Dales River Trust.River Ouse.[Online].[Accessed on 9th March 2019].Available from:http :
 //www.yorkshiredalesriverstrust.com/your − rivers/river − ouse/
+
 [2] City of York Council.Census 2011.[Online].2011.[Accessed on 9th March 2019].Available from: https :
 //www.york.gov.uk/info/20037/statisticsandinformation/79/census
-8
-MATH 3001 Quantifying Flooding and the Effectiveness of Flood Mitigation Schemes 2018/19
+
 [3] York Press. York floods 2015: How the devastating floods unfolded and how York
 rallied superbly.[Online].2016.[Accessed on 9th March 2019].Available from: https :
 //www.yorkpress.co.uk/news/14168299.york − floods − 2015 − how − the − devastating − floods −
 unfolded − and − how − york − rallied − superbly/
+
 [4] River Levels. River Level Monitoring Stations on the River Ouse.[Online].[Accessed on 10th March
 2019]. Available from: https : //riverlevels.uk/rivers/river − ouse.
+
 [5] UK Government. River and sea levels for: York, England.[Online].2019.[Accessed on 10th. March
 2019]. Available from: https : //flood − warning − information.service.gov.uk/river − and − sea −
 levels?location = york
