@@ -121,7 +121,7 @@ ax.set_yticklabels(Ticks_y)
 
 ##Titling the graph and axis
 plt.title('Graph to show the flood event of the River Ouse (Skelton) in December 2015')
-plt.text(-0.15, 0.9, 'Q $[m^3/s]$',style='italic',size=11)
+plt.text(-0.25, 0.92, 'Q $[m^3/s]$',style='italic',size=11)
 plt.text(0.9,-0.15, 't [day]',style='italic',size=11)
 plt.text(-1.05, -0.15, 'h $[m]$',style='italic',size=11)
 plt.text(-0.24,-0.9, 't [day]',style='italic', size=11)
