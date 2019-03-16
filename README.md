@@ -19,7 +19,7 @@ deem the relationship between stage and flow to be too unreliable at these locat
 
 ## December 2015
 <p align="center">
-  <img width="900" height="300" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015.png">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015.png">
    <figcaption>Figure 1:Quadrant plot for the River Ouse at the Skelton monitoring station.The upper left quadrant shows the relationship between flow and stage. Direct flow is shown as grey crosses and the flow calculated from a fitted polynomial is shown by the black line.The upper right quadrant shows the relationship between flow and time. Direct flow is shown as a grey line crosses and the flow calculated from a fitted polynomial is shown by the black line.Estimate 1 of the FEV is shown by the black box. Estimate 2 is shown by the blue shaded region.</figcaption>
 </p>
 
