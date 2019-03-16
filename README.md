@@ -15,7 +15,13 @@ the Clifton Ings and Skelton monitoring stations are located within a 5 mile rad
 The Skelton monitoring station (approximately 4 miles southwest from the city centre) records both stage
 and discharge whilst the Viking Recorder, Foss Barrier and Clifton Ings stations only record stage. No
 rating change reports are available for the Viking Recorder and Foss Barrier Stations because hydrologists
-deem the relationship between stage and flow to be too unreliable at these locations.
+deem the relationship between stage and flow to be too unreliable at these locations. A rating change report is available for Skelton however the EA in York do not consider this to be reliable. 
+
+## December 2015
+<p align="center">
+  <img width="900" height="300" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015.png">
+   <figcaption>Figure 1:Quadrant plot for the River Ouse at the Skelton monitoring station.The upper left quadrant shows the relationship between flow and stage. Direct flow is shown as grey crosses and the flow calculated from a fitted polynomial is shown by the black line.The upper right quadrant shows the relationship between flow and time. Direct flow is shown as a grey line crosses and the flow calculated from a fitted polynomial is shown by the black line.Estimate 1 of the FEV is shown by the black box. Estimate 2 is shown by the blue shaded region.</figcaption>
+</p>
 
 ## Flood Mitigation
 
@@ -27,9 +33,6 @@ Updates to progress on flood mitigation can be found here: https://consult.envir
 
 
 ## Project Progress
-* Report transferred into LaTex (see PDF). Started doing equations/tables yet have not input my graphs.
-* Updated my To-Do-List
-* Quadrant plot complete for Skelton 2015. hT to be determined still. Polynomial fitting function of order 2 used as a make-shift rating curve. Noticed some calibration measurements in the comments section of my raw data so want to include them and maybe give them double weighting to my polynomial fitting function. 
 * York's flood mitigation plan is active, but has not been fully analysed. Rescheduled to meet with EA this Friday. Problems in my chemistry experiments meant that the previous meeting had to be postponed. I am currenly mapping the locations of montioring stations, the flood cells, catchment areas and the mitigation they propose. In the 5 year plan, 
 
 
