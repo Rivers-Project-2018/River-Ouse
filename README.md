@@ -19,7 +19,7 @@ deem the relationship between stage and flow to be too unreliable at these locat
 
 ## December 2015 (Return period 1:40)
 <p align="center">
-  <img width="500" height="500" src="hhttps://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Graph.png">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Graph.png">
 </p>
 <p align="center">
   <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Square%20Lake.png">
