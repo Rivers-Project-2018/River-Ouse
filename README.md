@@ -39,7 +39,14 @@ In November 2016, the Evironmental Agency Released a 13 page document titled "Ho
 
 The document highlighted 10 communities at risk and made suggestions for flood mitigation including building and raising embankments, flood walls, land, creating storage areas and increasing the pump capacity of pump stations.
 
-Updates to progress on flood mitigation in the proximity of the city centre can be found here can be found here: https://consult.environment-agency.gov.uk/yorkshire/yorkfas/
+Since the 10 communities were identified, 29-30 "flood cells" have been highlighted where flooding occurs differently. Updates to progress on flood mitigation in the proximity of the city centre can be found here can be found here. Each flood cell has been assessed for investment in flood defences. Some floods have been disregarded as they do not meet the DEFRA cost benefit framework. 
+https://consult.environment-agency.gov.uk/yorkshire/yorkfas/
+
+I plan to assess the proposed work of the flood cells highlighted by red in the picture below. I am estimating that these defences are mutually exclusive to mitigating against the impacts of flooding from the Ouse and not the Foss. 
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/York%20FAS%20Flood%20Cells.png">
+</p>
+
 
 ## References
 
