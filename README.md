@@ -22,7 +22,7 @@ deem the relationship between stage and flow to be too unreliable at these locat
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Graph.png">
 </p>
 <p align="center">
-  <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Square%20Lake.png">
+  <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Lake.png">
 </p>
     
 ## November 2000 (Return period 1:42)
@@ -30,7 +30,7 @@ deem the relationship between stage and flow to be too unreliable at these locat
   <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202000%20Graph.png">
 </p>
 <p align="center">
-  <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202000%20Square%20Lake.png">
+  <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202000%20Lake.png">
 </p>
 
 ## Flood Mitigation
