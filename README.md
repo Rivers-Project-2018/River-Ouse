@@ -17,14 +17,21 @@ and discharge whilst the Viking Recorder, Foss Barrier and Clifton Ings stations
 rating change reports are available for the Viking Recorder and Foss Barrier Stations because hydrologists
 deem the relationship between stage and flow to be too unreliable at these locations. A rating change report is available for Skelton however the EA in York do not consider this to be reliable. 
 
-## December 2015
+## December 2015 (Return period 1:40)
 <p align="center">
-  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015.png">
-   <figcaption>Figure 1:Quadrant plot for the December 2015 flood of the River Ouse at the Skelton monitoring station.The upper left quadrant shows the relationship between flow and stage. Direct flow is shown as grey crosses and the flow calculated from a fitted polynomial is shown by the black line.The upper right quadrant shows the relationship between flow and time. Direct flow is shown as a grey line crosses and the flow calculated from a fitted polynomial is shown by the black line.Estimate 1 of the FEV is shown by the black box. Estimate 2 is shown by the blue shaded region.</figcaption>
+  <img width="500" height="500" src="hhttps://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Graph.png">
 </p>
 <p align="center">
   <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202015%20Square%20Lake.png">
-  <figcaption>Figure 2: Square lake for the December 2015 flood of the River Ouse at the Skelton monitoring station.</figcaption>
+</p>
+    
+## November 2000 (Return period 1:42)
+<p align="center">
+  <img width="500" height="500" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202000%20Graph.png">
+</p>
+<p align="center">
+  <img width="420" height="320" src="https://github.com/Rivers-Project-2018/River_Ouse_Antonia/blob/master/Skelton%202000%20Square%20Lake.png">
+</p>
 
 ## Flood Mitigation
 
@@ -32,8 +39,7 @@ In November 2016, the Evironmental Agency Released a 13 page document titled "Ho
 
 The document highlighted 10 communities at risk and made suggestions for flood mitigation including building and raising embankments, flood walls, land, creating storage areas and increasing the pump capacity of pump stations.
 
-Updates to progress on flood mitigation can be found here: https://consult.environment-agency.gov.uk/yorkshire/yorkfas/
-
+Updates to progress on flood mitigation in the proximity of the city centre can be found here can be found here: https://consult.environment-agency.gov.uk/yorkshire/yorkfas/
 
 ## References
 
